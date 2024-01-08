@@ -26,3 +26,5 @@ Find and print/create text file of-
 -A list of the unique values of column C, followed by the percentage of the total number of column c values, followed by the unique values count
  
 -"Winner", the unique Column C value with the highest count
+
+Notes- I did notice that the PyBank analysis seemed to have returned a different Greatest Increase and Decrease than what was shown in the module, but visually going through the data my result seemed to be correct. I am not positive, but I think the download link gave me a shortened file
