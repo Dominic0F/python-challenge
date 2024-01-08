@@ -5,6 +5,7 @@ Python Challenge UNC Boot Camp
 For the PyBank analysis, logic went a like this
 
 Find and print/create text file of-
+
 -The "Total Months", the count of column A
 
 -The "Total", the sum of numerical values in column b
@@ -19,6 +20,7 @@ Find and print/create text file of-
 For the PyPoll analysis, the logic was
 
 Find and print/create text file of-
+
 -The "Total Votes", which is the count of column A
 
 -A list of the unique values of column C, followed by the percentage of the total number of column c values, followed by the unique values count
