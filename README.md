@@ -1,6 +1,9 @@
 # python-challenge
 Python Challenge UNC Boot Camp
+
+
 For the PyBank analysis, logic went a like this
+
 Find and print/create text file of-
 -The "Total Months", the count of column A
 
@@ -13,7 +16,8 @@ Find and print/create text file of-
 -The "Greatest Decrease in Profits" over the entire period, the lowest value of column b and its corresponding column A value. generated as "'Column A value' ('column b value')"
 
 
-For the PyPoll analysis, it was
+For the PyPoll analysis, the logic was
+
 Find and print/create text file of-
 -The "Total Votes", which is the count of column A
 
